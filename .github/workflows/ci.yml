@@ -6,9 +6,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
-      - name: install deps and build
+      - name: Install deps and build
         run: make setup
-      - name: run tests
+      - name: Run tests
         run: make test
-      - name: run linter
+      - name: Run linter
         run: make lint
