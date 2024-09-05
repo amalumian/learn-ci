@@ -1,3 +1,5 @@
+[![CI](https://github.com/amalumian/learn-ci/actions/workflows/ci.yml/badge.svg)](https://github.com/amalumian/learn-ci/actions/workflows/ci.yml)
+
 # Learn Continuous Integration
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
